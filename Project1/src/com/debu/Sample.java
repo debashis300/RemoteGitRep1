@@ -6,6 +6,7 @@ public class Sample {
 	{
 		System.out.println("This is Git1");
 		System.out.println("This is Git2");
+		System.out.println("This is Dev3's Changes");
 		
 	}
 
